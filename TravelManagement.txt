@@ -1,0 +1,21 @@
+Destination,Bookings,Revenue,Rating
+Japan,547,453.25,4
+Italy,412,389.50,5
+Greece,289,275.75,4
+France,625,510.00,5
+Thailand,198,210.25,3
+Australia,575,485.50,5
+Disney World,735,625.75,5
+Hawaii,682,590.25,5
+Alaska,243,295.50,4
+Iceland,178,265.75,5
+New Zealand,312,420.50,5
+Costa Rica,287,375.25,4
+Maldives,198,615.00,5
+Germany,352,410.25,4
+Singapore,265,395.75,5
+Caribbean,489,550.50,4
+Orlando,421,360.25,4
+Mediterranean,378,505.75,5
+Dubai,156,725.50,5
+Peru,294,330.25,4

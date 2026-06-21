@@ -1,0 +1,21 @@
+Name,Gender,AgeGroup,CustomerType,Destination
+Aelin Galathinius,Female,Young Adult,Solo Traveler,Japan
+Rowan Whitethorn,Male,Adult,Couples,Italy
+Feyre Archeron,Female,Young Adult,Couples,Greece
+Rhysand Night,Male,Adult,Couples,France
+Bryce Quinlan,Female,Young Adult,Solo Traveler,Thailand
+Hunt Athalar,Male,Adult,Solo Traveler,Australia
+Nesta Archeron,Female,Adult,Family Traveler,Disney World
+Cassian Illyrian,Male,Adult,Family Traveler,Hawaii
+Elain Archeron,Female,Senior,Family Traveler,Alaska
+Azriel Shadowsinger,Male,Adult,Solo Traveler,Iceland
+Manon Blackbeak,Female,Young Adult,Solo Traveler,New Zealand
+Dorian Havilliard,Male,Young Adult,Solo Traveler,Costa Rica
+Lysandra Caraverre,Female,Adult,Couples,Maldives
+Chaol Westfall,Male,Adult,Business Traveler,Germany
+Yrene Towers,Female,Adult,Business Traveler,Singapore
+Lorcan Salvaterre,Male,Senior,Solo Traveler,Caribbean
+Elide Lochan,Female,Adult,Family Traveler,Orlando
+Gavriel Moonbeam,Male,Senior,Family Traveler,Mediterranean
+Amren Ancient,Female,Senior,Solo Traveler,Dubai
+Tarquin Summer,Male,Young Adult,Solo Traveler,Peru
